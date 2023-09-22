@@ -1,4 +1,4 @@
-![logo](https://github.com/AMITKURIL98/AMITKURIL98/blob/main/ilya-pavlov-OqtafYT5kTw-unsplash.jpg)
+![logo]([https://github.com/AMITKURIL98/AMITKURIL98/blob/main/ilya-pavlov-OqtafYT5kTw-unsplash.jpg](https://github.com/AMITKURIL98/AMITKURIL98/blob/main/Screenshot%202023-09-22%20124827.png))
 
 <h1 align="center">Hi 👋, I'm Amit Kuril</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
